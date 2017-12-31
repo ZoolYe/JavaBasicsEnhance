@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/css" href="cofig.css" ?>
+<soft>
+ 	
+ 	<a>
+ 		<a1 id="a1">中国</a1>
+ 	</a>
+ 	<b>
+ 		<b1 id="b1">美国</b1>
+ 	</b>
+ 	
+ 	<c>
+ 		<c1 id="c1">日本</c1>
+ 	</c>
+ 	
+</soft>
