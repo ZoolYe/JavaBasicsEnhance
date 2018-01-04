@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder xmlns="zool.java.xmlSchema"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="zool.java.xmlSchema shiporder.xsd" orderid="111">
+		
+	<orderperson>abc</orderperson>
+	<shipto>
+		<name>张三</name>
+		<address>朝阳</address>
+		<city>北京</city>
+		<country>中国</country>
+	</shipto>
+	<item>
+		<title>你好，欢迎！</title>
+		<note></note>
+		<quantity>123</quantity>
+		<price>78.25</price>
+	</item>
+</shiporder>
